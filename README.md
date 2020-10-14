@@ -5,7 +5,7 @@
 [![Linkedin: will-levine-63b986123](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/will-levine-63b986123/)](https://www.linkedin.com/in/will-levine-63b986123/)
 [![GitHub: levinwil](https://img.shields.io/github/followers/levinwil?label=follow&style=social)](https://github.com/levinwil)
 
-### A little more about me...  
+### A little about me... 
 
 ```javascript
 class Will(Minimalist):
