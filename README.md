@@ -30,6 +30,6 @@ class Will:
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people so please feel free to say hi!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people so please feel free to reach out and say hi!</b> :)</em>
 
 ![Github stats](https://github-readme-stats.vercel.app/api/?username=levinwil&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
