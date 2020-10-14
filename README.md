@@ -1,4 +1,4 @@
-### Website and 'Social' Media:
+### 'Social' Media:
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Google Schoalr" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][google-scholar]
 <br/><br/>
