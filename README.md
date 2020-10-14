@@ -20,10 +20,10 @@ class Will:
     self.supported_practices = ["minimalism", "environmental sustainability", "mindfulness"]
     
   def run(self, things_look_good = True):
-    if not self:
+    if !self:
       self = self.__init__()
       
-    if not things_look_good:
+    if !things_look_good:
       print("This too shall pass!")
       continue
   
