@@ -9,7 +9,7 @@
 ### A little more about me...  
 
 ```javascript
-class Will:
+class Will(Minimalist):
   def __init__(self):
     self.languages = ["python", "java", "LaTeX"]
     self.py_datasci_stack = ["jupyter", "pandas", "scikit-learn", "keras"]
@@ -17,7 +17,7 @@ class Will:
     self.repo_maintaner = True
     
     self.hobbies = ["singing", "songwriting", "powerlifting"]
-    self.supported_practices = ["minimalism", "environmental sustainability", "mindfulness"]
+    self.supported_practices = ["environmental sustainability", "mindfulness"]
     
   def run(self, things_look_good = True):
     if !self:
