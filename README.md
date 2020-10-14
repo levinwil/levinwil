@@ -1,4 +1,5 @@
 <h2> Hi, I'm Will LeVine!</h2>
+<img align='right' src="https://miro.medium.com/max/888/1*fTBgwlcT6waWOfbvoFVFgw.gif" width="120">
 <p><em>MSE Candidate at Johns Hopkins University</em></p>
 
 [<img align="left" alt="Google Scholar" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=x0BaVhQAAAAJ&hl=en)
