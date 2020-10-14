@@ -24,6 +24,7 @@ class Will:
       self = self.__init__()
       
     if !things_look_good:
+      self.breathe()
       print("This too shall pass!")
       continue
 ```
