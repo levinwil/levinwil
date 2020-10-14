@@ -7,7 +7,7 @@
 ```javascript
 class Will(Minimalist):
   def __init__(self):
-    self.current_status = {"role" : "MSE Candidate", "instutition" : "Johns Hopkins"}
+    self.current_status = {"role" : "MSE Candidate", "instutition" : "Johns Hopkins University"}
     self.languages = ["python", "java", "LaTeX"]
     self.py_datasci_stack = ["jupyter", "pandas", "scikit-learn", "keras"]
     self.tools = ["docker", "git"]
