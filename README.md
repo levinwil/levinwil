@@ -9,6 +9,7 @@
 
 ```javascript
 class Will:
+
   def __init__(self):
     self.pronouns = ["he", "him"]
     self.languages = ["python", "java", "LaTeX"]
