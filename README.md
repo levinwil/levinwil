@@ -1,5 +1,4 @@
 <h2> Hi, I'm Will LeVine!</h2>
-<img align='right' src="https://miro.medium.com/max/888/1*fTBgwlcT6waWOfbvoFVFgw.gif" width="80">
 
 [<img align="left" alt="Google Scholar" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=x0BaVhQAAAAJ&hl=en)
 [![Linkedin: will-levine-63b986123](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/will-levine-63b986123/)](https://www.linkedin.com/in/will-levine-63b986123/)
