@@ -5,10 +5,7 @@
 [![Linkedin: will-levine-63b986123](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/will-levine-63b986123/)](https://www.linkedin.com/in/will-levine-63b986123/)
 [![GitHub: levinwil](https://img.shields.io/github/followers/levinwil?label=follow&style=social)](https://github.com/levinwil)
 
-<br/><br/>
-
-
-### <img src="https://i.pinimg.com/originals/f3/d3/56/f3d35634ce49ee4e1362685560a6cd2f.gif" width="50"> A little more about me...  
+### <img src="https://miro.medium.com/max/888/1*fTBgwlcT6waWOfbvoFVFgw.gif" width="50"> A little more about me...  
 
 ```javascript
 class Will:
