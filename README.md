@@ -16,7 +16,7 @@ class Will(Minimalist):
     self.hobbies = ["singing", "songwriting", "powerlifting"]
     self.supported_practices = ["environmental sustainability", "mindfulness"]
     
-  def run(self, things_look_good = True):
+  def main(self, things_look_good = True):
     if !self:
       self = self.__init__()
       
