@@ -1,6 +1,5 @@
 [<img align="left" alt="Google Scholar" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=x0BaVhQAAAAJ&hl=en)
 [![Linkedin: will-levine-63b986123](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/will-levine-63b986123/)](https://www.linkedin.com/in/will-levine-63b986123/)
-[![GitHub: levinwil](https://img.shields.io/github/followers/levinwil?label=follow&style=social)](https://github.com/levinwil)
 
 ```javascript
 class Will(Minimalist):
