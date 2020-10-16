@@ -9,7 +9,7 @@ class Will(Minimalist):
     self.languages = ["python", "java", "LaTeX"]
     self.py_datasci_stack = ["jupyter", "pandas", "scikit-learn", "keras"]
     self.tools = ["docker", "git"]
-    self.repo_maintaner = True
+    self.OSS_repo_maintaner = True
     
     self.hobbies = ["singing", "songwriting", "powerlifting"]
     self.supported_practices = ["environmental sustainability", "mindfulness"]
