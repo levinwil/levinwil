@@ -6,7 +6,7 @@ class Will(Minimalist):
   def __init__(self):
     self.current_status = {"role" : "MSE Candidate", "institution" : "Johns Hopkins University"}
     self.languages = ["python", "java", "LaTeX"]
-    self.py_datasci_stack = ["jupyter", "pandas", "scikit-learn", "keras"]
+    self.py_datasci_stack = ["jupyter", "pandas", "scikit-learn", "keras", "pytorch"]
     self.tools = ["docker", "git"]
     self.OSS_repo_maintaner = True
     
