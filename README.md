@@ -14,10 +14,10 @@ class Will(Minimalist):
     self.supported_practices = ["environmental sustainability", "mindfulness"]
     
   def main(self, things_look_good = True):
-    if !self:
+    if not self:
       self = self.__init__()
       
-    if !things_look_good:
+    if not things_look_good:
       self.breathe()
       print("This too shall pass!")
       continue
