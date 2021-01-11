@@ -10,9 +10,6 @@ class Will(Minimalist):
     self.py_datasci_stack = ["jupyter", "pandas", "scikit-learn", "keras", "pytorch"]
     self.tools = ["docker", "git"]
     
-    self.hobbies = ["singing", "songwriting", "calisthenics"]
-    self.supported_practices = ["environmental sustainability", "mindfulness"]
-    
   def main(self, things_look_good = True):
     if not self:
       self = self.__init__()
