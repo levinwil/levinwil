@@ -16,6 +16,6 @@ class Will(Minimalist):
       
     if not things_look_good:
       self.breathe()
-      print("This too shall pass!")
+      print("This being human is a guest house.")
       continue
 ```
