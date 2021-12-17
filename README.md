@@ -17,11 +17,11 @@ class Will(Minimalist):
     self.py_datasci_stack = ["jupyter", "pandas", "scikit-learn", "keras", "pytorch"]
     self.tools = ["docker", "git"]
     
-  def main(self, things_look_good = True):
+  def main(self, expectations_met = True):
     if not self:
       self = self.__init__()
       
-    if not things_look_good:
+    if not expectations_met:
       self.breathe()
       print("This being human is a guest house.")
       continue
