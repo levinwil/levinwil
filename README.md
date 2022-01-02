@@ -5,7 +5,7 @@
 class Will(Minimalist):
   def __init__(self):
     self.professional_status = {
-      "role" : "Machine Learning Engineer", 
+      "role" : "Senior Machine Learning Engineer", 
       "company" : "Clarifai",
     }
     self.degree_status = {
