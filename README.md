@@ -22,7 +22,7 @@ class Will(Minimalist):
       self = self.__init__()
       
     if self.expectations.met == False:
-      self.breathe()
+      self.meditate()
       print("This being human is a guest house.")
       continue
 ```
