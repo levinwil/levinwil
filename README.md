@@ -20,9 +20,4 @@ class Will(Minimalist):
   def main(self):
     if not self:
       self = self.__init__()
-      
-    if self.expectations.met == False:
-      self.meditate()
-      print("This being human is a guest house.")
-      continue
 ```
