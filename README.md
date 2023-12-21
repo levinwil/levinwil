@@ -2,7 +2,7 @@
 [![Linkedin: will-levine-63b986123](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/will-levine-63b986123/)](https://www.linkedin.com/in/will-levine-63b986123/)
 
 ```javascript
-class Will(Minimalist):
+class Will(Husband):
   def __init__(self):
     self.professional_status = {
       "role" : "Senior Machine Learning Engineer", 
