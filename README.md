@@ -5,8 +5,8 @@
 class Will(Husband):
   def __init__(self):
     self.professional_status = {
-      "role" : "Senior Machine Learning Engineer", 
-      "company" : "Scale AI",
+      "role" : "Senior Machine Learning Researcher", 
+      "company" : "Microsoft",
     }
     self.degree_status = {
       "level" : "MSE", 
@@ -14,7 +14,6 @@ class Will(Husband):
       "concentration" : "Biomedical Data Science"
       "institution" : "Johns Hopkins University",
     }
-    self.py_datasci_stack = ["jupyter", "pandas", "scikit-learn", "keras", "pytorch", "docker", "git"]
     
   def main(self):
     if not self:
